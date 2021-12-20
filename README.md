@@ -29,5 +29,7 @@ The experiment for AdQA is provided in `squad` folder. The code is modified from
 
 ## Acknowledgements
 
-Some codes are modified from [CSS](https://github.com/yanxinzju/CSS-VQA), [UpDn](https://github.com/chrisc36/bottom-up-attention-vqa), [squad](https://github.com/chrischute/squad), and [Re-bias](https://github.com/clovaai/rebias). Thanks for their help for open source.
+Some codes are modified from [CSS](https://github.com/yanxinzju/CSS-VQA), [UpDn](https://github.com/chrisc36/bottom-up-attention-vqa), [squad](https://github.com/chrischute/squad), and [Re-bias](https://github.com/clovaai/rebias). Thanks for their open source.
+
+
 
