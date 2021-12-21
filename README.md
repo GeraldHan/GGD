@@ -12,12 +12,12 @@ If you find this repo helpful, please cite
 }
 ```
 ```
-@inproceedings{2017rn,
-	title={A simple neural network module for relational reasoning},
-	author={Santoro, Adam and Raposo, David and Barrett, David G and Malinowski, Mateusz and Pascanu, Razvan and Battaglia, Peter and Lillicrap, Timothy},
-	booktitle={Advances in neural information processing systems},
-	pages={4967--4976},
-	year={2017}
+@inproceedings{han2021greedy,
+  title={Greedy gradient ensemble for robust visual question answering},
+  author={Han, Xinzhe and Wang, Shuhui and Su, Chi and Huang, Qingming and Tian, Qi},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={1584--1593},
+  year={2021}
 }
 ```
 
