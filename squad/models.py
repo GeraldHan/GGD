@@ -78,6 +78,6 @@ class BiDAF(nn.Module):
         out1, out2 = self.out(att, mod, c_mask)  # 2 tensors, each (batch_size, c_len)
 
         
-        out_bias1, out_bias2 = self.out_bias(att.detach(), mod.detach(), c_mask)
+#         out_bias1, out_bias2 = self.out_bias(att.detach(), mod.detach(), c_mask)
         
-        return out1, out2, out_bias1, out_bias2
+        return out1, out2#, out_bias1, out_bias2
