@@ -23,8 +23,8 @@ If you find this repo helpful, please cite
 
 ## GGD
 
-![figure1](figure/gge.pdf)
-![figure2](figure/cr.pdf)
+![figure1](https://github.com/GeraldHan/GGD/tree/main/figure/gge.pdf)
+![figure2](https://github.com/GeraldHan/GGD/tree/main/figure/cr.pdf)
 
 The core of GGD is to decompose the CE loss of GGE. The pytorch implementation is
 ```
